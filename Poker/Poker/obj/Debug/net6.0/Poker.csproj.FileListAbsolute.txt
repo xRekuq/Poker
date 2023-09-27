@@ -1,0 +1,14 @@
+C:\Users\Dawid\source\repos\Poker\Poker\bin\Debug\net6.0\Poker.exe
+C:\Users\Dawid\source\repos\Poker\Poker\bin\Debug\net6.0\Poker.deps.json
+C:\Users\Dawid\source\repos\Poker\Poker\bin\Debug\net6.0\Poker.runtimeconfig.json
+C:\Users\Dawid\source\repos\Poker\Poker\bin\Debug\net6.0\Poker.dll
+C:\Users\Dawid\source\repos\Poker\Poker\bin\Debug\net6.0\Poker.pdb
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.dll
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\refint\Poker.dll
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.pdb
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\Poker.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\Poker\Poker\obj\Debug\net6.0\ref\Poker.dll
